@@ -19,7 +19,7 @@ calculadora-python/
 │
 ├── README.md              # Documentação do projeto
 └── .gitignore             # Arquivos ignorados pelo Git (opcional)
-
+```
 🚀 Como Executar o Projeto
 Navegue até a pasta onde o projeto está localizado (ou até a pasta dist).
 
