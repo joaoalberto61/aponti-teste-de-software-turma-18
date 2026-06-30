@@ -1,0 +1,35 @@
+# 🚀 Nome do Seu Projeto
+
+Breve descrição do projeto. Explique em uma ou duas linhas o que o seu software faz e qual problema ele resolve de forma simples e direta.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+Uma lista organizada das ferramentas e linguagens que dão vida ao projeto:
+
+* **Linguagem Principal:** Python 🐍
+* **Banco de Dados:** MySQL 🗄️
+* **Bibliotecas/APIs:** * `requests` (para consumo de APIs externas)
+  * `mysql-connector-python` (para integração com o banco)
+
+---
+
+## 📋 Funcionalidades
+
+Veja o que você pode fazer com esta aplicação:
+
+1. Buscar dados de endereço automaticamente utilizando um CEP.
+2. Validar se o formato do CEP digitado é válido.
+3. Gravar o histórico de consultas diretamente no banco de dados local.
+
+---
+
+## 💻 Como Executar o Projeto
+
+Para rodar este projeto localmente, siga os passos abaixo no seu terminal.
+
+### 1. Clonar o Repositório
+```bash
+git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+cd seu-repositorio
