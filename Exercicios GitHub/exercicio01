@@ -1,35 +1,26 @@
-# 🚀 Nome do Seu Projeto
+# Nome do Projeto
 
-Breve descrição do projeto. Explique em uma ou duas linhas o que o seu software faz e qual problema ele resolve de forma simples e direta.
-
----
-
-## 🛠️ Tecnologias Utilizadas
-
-Uma lista organizada das ferramentas e linguagens que dão vida ao projeto:
-
-* **Linguagem Principal:** Python 🐍
-* **Banco de Dados:** MySQL 🗄️
-* **Bibliotecas/APIs:** * `requests` (para consumo de APIs externas)
-  * `mysql-connector-python` (para integração com o banco)
+Este é um projeto simples criado para praticar a sintaxe do **Markdown**. Aqui aplicamos os recursos solicitados no exercício.
 
 ---
 
-## 📋 Funcionalidades
+## Sobre o Projeto
 
-Veja o que você pode fazer com esta aplicação:
-
-1. Buscar dados de endereço automaticamente utilizando um CEP.
-2. Validar se o formato do CEP digitado é válido.
-3. Gravar o histórico de consultas diretamente no banco de dados local.
+O objetivo deste projeto é demonstrar o uso correto de formatação de texto em documentações. Veja algumas das tecnologias que estamos estudando:
+* *HTML5*
+* *CSS3*
+* *JavaScript*
 
 ---
 
-## 💻 Como Executar o Projeto
+## 🛠️ Como Executar o Projeto
 
-Para rodar este projeto localmente, siga os passos abaixo no seu terminal.
+Siga os passos abaixo para testar o projeto localmente:
 
-### 1. Clonar o Repositório
+1. Clone este repositório para a sua máquina.
+2. Abra a pasta do projeto no seu editor de código (ex: VS Code).
+3. Execute o comando abaixo no terminal:
+
 ```bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-cd seu-repositorio
+npm install
+npm start
