@@ -14,3 +14,11 @@ Este é um projeto criado para demonstrar o uso de links internos em um arquivo 
 Para instalar as dependências, execute o seguinte comando no terminal:
 ```bash
 npm install
+```
+## Tecnologias utilizadas
+```bash
+HTML
+CSS
+JavaScript
+Git
+GitHub
