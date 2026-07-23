@@ -1,0 +1,22 @@
+Exercício 6 - Parte 1:
+
+1. Retorna o valor esperado após o registro. Quando deixa um campo em branco o sistema informa que precisa ser preenchido. A unidade Data tem um erro, permite que passe com qualquer dado que seja digitado, inclusive letras e com apenas um numero.
+
+2. O valor é adicionado no relatório financeiro como o esperado. Entretanto o gráfico precisa ter um ajuste de mostrar o valor quando passar o mouse ou pressionado. Você só tem a imagem do gráfico, mas não permite ver o valor da receita e despesas do mês em questão.
+
+Outro problema é na impressão que não mostra o gráfico. O valor da receita e despesas aparece como o esperado.
+
+3. O cadastro do paciente funciona, mas o sistema não tem as opções de atendimento e pagamento.
+
+4. Não foi encontrado essa opção no sistema.
+
+5. Na área de pacientes o cadastro de CPF é possível digitar qualquer coisa nessa unidade que o sistema aceita o cadastro do paciente. O mesmo pode ser feito com o Telefone e E-Mail.
+
+6. Na área de reagendamento é atualizado o novo cadastro e fica visível os novos dados cadastrados.
+
+7. O sistema fornecido via GitHub não permite que eu escolha o tipo de conta e nem ver qual a conta está conectada. Dado a isso não é possível fazer esse teste.
+
+8. Não existe essa opção de confirmação da recepcionista na área de agendamento.
+
+Exercício 6 - Parte 2:
+
