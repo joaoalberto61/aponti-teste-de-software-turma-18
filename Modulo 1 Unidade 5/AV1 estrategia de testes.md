@@ -97,9 +97,3 @@ Em um ecossistema bancário, o risco de impacto financeiro e danos à reputaçã
 
 * **Estratégia Contínua:**
   Os testes ocorrem de forma **contínua** integrados à esteira de CI/CD (Pipeline automatizado), garantindo rápido *feedback loop* antes de cada envio para produção.
-
----
-
-## 📄 Licença e Uso
-
-Este repositório serve como modelo conceitual e prático de plano/estratégia de testes para aplicações financeiras. Sinta-se à vontade para reutilizar ou adaptar a estrutura para o seu projeto!
