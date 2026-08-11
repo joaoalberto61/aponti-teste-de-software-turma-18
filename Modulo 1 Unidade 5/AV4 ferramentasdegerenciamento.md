@@ -1,4 +1,4 @@
-# 🧪 Gestão e Migração de Casos de Teste — Sistema Clin Web
+# 🧪 Gestão e Migração de Casos de Teste — CLÍNICA PSI
 
 [![QA - Test Management](https://img.shields.io/badge/QA-Test%20Management-blue.svg)](#)
 [![Test Cycles](https://img.shields.io/badge/Cycles-Smoke%20%7C%20Sanity%20%7C%20Regression-green.svg)](#)
