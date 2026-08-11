@@ -124,16 +124,3 @@ Os casos de teste foram agrupados em três níveis estratégicos de execução:
 | **CT039** | Editar em Evoluções de sessão | Autenticado em Evoluções de sessão. | 1. Clicar no lápis.<br>2. Alterar e salvar. | Dados da evolução modificados. | `Sanity` `Regression` |
 | **CT040** | Excluir em Evoluções de sessão | Autenticado em Evoluções de sessão. | 1. Clicar no "X".<br>2. Confirmar em "OK". | Evolução removida do sistema. | `Sanity` `Regression` |
 | **CT041** | Informações do Relatório financeiro | Autenticado no módulo Financeiro. | 1. Inserir receitas.<br>2. Inserir despesas.<br>3. Checar saldo. | Relatório exibe o saldo consolidado (positivo/negativo). | `Smoke` `Regression` |
-
----
-
-## 🛠️ Ferramentas e Tecnologias
-
-- **Gerenciamento de Testes:** Markdown / TestRail / Jira Xray / Azure DevOps
-- **Metodologia:** BDD / Tradicional por Casos de Teste Estáticos
-- **Controle de Versão:** Git & GitHub
-
----
-
-## ✒️ Autor
-Desenvolvido como parte do projeto prático de Gestão de Testes de Software.
